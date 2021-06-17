@@ -1,5 +1,7 @@
 > [Preview](https://youtu.be/zAdmgCs61hQ)
+
 > [Discord - Shop](https://discord.gg/msqgkqY5Wz)
+
 > [Discord](https://discord.gg/fcrvNbgazk)
 
 ## IMPORTANT
