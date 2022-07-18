@@ -393,7 +393,7 @@ pSociety.ExtractIdentifiers = function(src)
 end
 
 RegisterServerEvent("pSociety:SetJob")
-AddEventHandler("pSociety:SetJob", function(job, type, player)
+AddEventHandler("pSociety:SetJob", function(job, player)
 	local xPlayer = ESX.GetPlayerFromId(source)
 	local xTarget = ESX.GetPlayerFromId(player)
 	if xTarget.job.grade_name == 'boss' then
